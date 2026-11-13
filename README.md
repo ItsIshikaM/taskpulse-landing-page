@@ -1,6 +1,6 @@
 # TaskPulse - SaaS Landing Page
 LIVE DEMO LINK: https://taskpulse-landing-page.onrender.com
-A fully responsive, modern SaaS landing page built for the Sankar Group Front-End Development Internship Assignment[cite: 5].
+A fully responsive, modern SaaS landing page.
 
 ## Technologies Used
 * HTML5
